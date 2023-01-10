@@ -16,7 +16,7 @@ App distribution platforms:
 
 Per appreviewtimes.com, as of 2020, average app review time is "24-48 hours"; used to be days or even weeks.
 
-_Note:_ TestFlight app must be installed on the device.
+_Note:_ TestFlight app must be installed on the device from the App Store.
 
 ## Google Play - Android Ecosystem
 
