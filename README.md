@@ -29,3 +29,6 @@ Publishing an Android app in Google Play takes about an hour or two; sometimes e
 
 
 _Note:_ More than one version of the same app cannot be tested at the same time; must leave the test program in order to download a production version.
+
+![unnamed](https://user-images.githubusercontent.com/70295997/211433526-3623ea6b-0fd0-4aa9-b577-c1aecf3c2931.png)
+
